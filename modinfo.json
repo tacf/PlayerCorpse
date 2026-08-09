@@ -6,6 +6,6 @@
   "authors": ["DArkHekRoMaNT"],
   "dependencies": {
     "game": "1.22.0",
-    "commonlib": "3.0.1"
+    "commonlib": "3.0.0"
   }
 }
